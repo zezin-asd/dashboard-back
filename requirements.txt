@@ -1,0 +1,5 @@
+oracledb
+requests
+fastapi
+uvicorn
+pytz
